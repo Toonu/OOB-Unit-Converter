@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Data/Managed/Assembly-CSharp.dll</key>
 		<data>
-		LYMCzT8Hbn2m/WfXRoHDhkXiXyM=
+		EJB1L9po76YYwjah58TwjB/Ev5A=
 		</data>
 		<key>Resources/Data/Managed/Mono.Security.dll</key>
 		<data>
@@ -458,7 +458,7 @@
 		</data>
 		<key>Resources/Data/boot.config</key>
 		<data>
-		b6O6f2/DOAlJYV8Aq7oNkvLisXg=
+		pNvjCULa51PqKOVIsD9iPUYbIL0=
 		</data>
 		<key>Resources/Data/data.unity3d</key>
 		<data>
@@ -479,10 +479,6 @@
 		<key>Resources/PlayerIcon.icns</key>
 		<data>
 		UMKQDWDcgX0lsZ0ykzQlqCVDGbg=
-		</data>
-		<key>Resources/UnitDictionary.json</key>
-		<data>
-		0T3YJG8bgTa9X09/gTgQ3URX/so=
 		</data>
 		<key>Resources/unity default resources</key>
 		<data>
@@ -526,15 +522,6 @@
 			</data>
 			<key>requirement</key>
 			<string>cdhash H"a9a274959df891636c984279ff1079f2997414de" or cdhash H"e3feade4032d53ae9c2101cacab4aa828e4d8e1f"</string>
-		</dict>
-		<key>MacOS/Order of Battle</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			NakA0tC8FC5Pt86Wp9IFNBhpvG4=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"35a900d2d0bc142e4fb7ce96a7d205341869bc6e" or cdhash H"e0e97a2635bdbcc209edb49f86f71e0e009e8ef5"</string>
 		</dict>
 		<key>MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser</key>
 		<dict>
@@ -684,7 +671,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q/SBJ9R05CkvpNQiwD62vIoUVbyR/9tPrI9+xA/Kyvo=
+			RgpeqU6YOu4bm/52c/wAxQJgrqyduMKF/S+Z39CDJIE=
 			</data>
 		</dict>
 		<key>Resources/Data/Managed/Mono.Security.dll</key>
@@ -1475,7 +1462,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SgMVGlDIou8mP5XgT9D2jGP6TARkcELVollrTiRfzkM=
+			BOHtAdDHmV2pXUvyhd/OlvDKjY/DvBXFaynBzuW/F3A=
 			</data>
 		</dict>
 		<key>Resources/Data/data.unity3d</key>
@@ -1511,13 +1498,6 @@
 			<key>hash2</key>
 			<data>
 			tEtgb2NxtKVVAT3ZKzpg/LC2Y6vh9HhN3fm3muqBwbM=
-			</data>
-		</dict>
-		<key>Resources/UnitDictionary.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/E6wK7fCr3Pd0pmRr8Jj9QiK+2nNBTB6+lmEKa6exR8=
 			</data>
 		</dict>
 		<key>Resources/unity default resources</key>

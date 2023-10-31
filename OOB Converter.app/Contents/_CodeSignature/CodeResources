@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Data/Managed/Assembly-CSharp.dll</key>
 		<data>
-		EJB1L9po76YYwjah58TwjB/Ev5A=
+		QmFIC1JvQUe5VSnpk2U8x2zCv+o=
 		</data>
 		<key>Resources/Data/Managed/Mono.Security.dll</key>
 		<data>
@@ -458,11 +458,11 @@
 		</data>
 		<key>Resources/Data/boot.config</key>
 		<data>
-		pNvjCULa51PqKOVIsD9iPUYbIL0=
+		JJbi2n7H6XEpQDWJooI414uAv90=
 		</data>
 		<key>Resources/Data/data.unity3d</key>
 		<data>
-		GumFiYA7USYoA1W3iTvbT9B7DD4=
+		TrLfrWq9Bneb2EBrM3krqpUz5TI=
 		</data>
 		<key>Resources/DefaultPreferences.plist</key>
 		<data>
@@ -479,6 +479,10 @@
 		<key>Resources/PlayerIcon.icns</key>
 		<data>
 		UMKQDWDcgX0lsZ0ykzQlqCVDGbg=
+		</data>
+		<key>Resources/UnitDictionary.json</key>
+		<data>
+		plfzW/vxgM57WrfCxmPLvGJykmY=
 		</data>
 		<key>Resources/unity default resources</key>
 		<data>
@@ -671,7 +675,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RgpeqU6YOu4bm/52c/wAxQJgrqyduMKF/S+Z39CDJIE=
+			6GKTvNOazSKjvKi88QCE/R45J7vQHY/F+rbGMCyKuq0=
 			</data>
 		</dict>
 		<key>Resources/Data/Managed/Mono.Security.dll</key>
@@ -1462,14 +1466,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BOHtAdDHmV2pXUvyhd/OlvDKjY/DvBXFaynBzuW/F3A=
+			g2MjYvH23UCeeuy8w6hxx7OyUF4CbplkIB8YlT8Yx1g=
 			</data>
 		</dict>
 		<key>Resources/Data/data.unity3d</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7sAwwAgISQiNtffug9KTunl/ZGClBndazwMg7MiG4Dk=
+			awXFLuwEm+6G00/kesSzwzTp5rOARaFW5Sh9OQIOMt8=
 			</data>
 		</dict>
 		<key>Resources/DefaultPreferences.plist</key>
@@ -1498,6 +1502,13 @@
 			<key>hash2</key>
 			<data>
 			tEtgb2NxtKVVAT3ZKzpg/LC2Y6vh9HhN3fm3muqBwbM=
+			</data>
+		</dict>
+		<key>Resources/UnitDictionary.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			njW+TvxmX+4yGmnWTDwrIMEs+5VVVnWgN4ESX20dj94=
 			</data>
 		</dict>
 		<key>Resources/unity default resources</key>
